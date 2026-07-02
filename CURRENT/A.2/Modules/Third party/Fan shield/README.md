@@ -1,2 +1,2 @@
 
-Signed-off-by: kb@annenkov.pro
+Signed-off-by: Grigory Annenkov  <kb@annenkov.pro>
